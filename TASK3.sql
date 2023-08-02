@@ -1,0 +1,1 @@
+SELECT * FROM us_state WHERE capital LIKE "%a" ; -- capital que acam em a
